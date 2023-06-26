@@ -1,0 +1,24 @@
+.pasirinkti{
+    line-height: 30px;
+    width: 150px;
+}
+
+#game{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: grey;
+    text-align: center;
+}
+
+#playerText{
+    color: yellow;
+}
+
+#computerText{
+    color: green;
+}
+#resultText{
+    color: red;
+}
